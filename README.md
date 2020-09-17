@@ -1,4 +1,4 @@
-# Ansible Role: Install Root CA Certificate
+## Ansible Role: Install Root CA Certificate
 
 [![Build Status](https://travis-ci.org/gametize/ansible-role-install-root-cert.svg?branch=master)](https://travis-ci.org/gametize/ansible-role-install-root-cert)
 
